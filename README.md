@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**Sanwed/Sanwed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Alex, a Middle Frontend Developer based in Russia.
 
-Here are some ideas to get you started:
+I mostly work on any E-Commerce frontend stuff – Vue 3, Nuxt 3, Typescript, Tailwind, SCSS and a bit of React and Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also use Figma for UI design of my pet-projects and any interesting ideas.
+
+I publish here my pet-projects and educational repos for my YouTube channel.
+
+## Tools & Tech
+- Vue 3, Nuxt 3, TypeScript;
+- Tailwind, SASS/SCSS, HTML;
+- Figma, GitLab;
