@@ -11,8 +11,9 @@ I publish here my pet-projects and educational repos for my YouTube channel.
 I am open for cool job if you'd like to suggest me it.
 
 ## Tools & Tech
-- Vue 3, Nuxt 3, TypeScript;
+- AI Integration
+- Vue 3, Nuxt 3/4, TypeScript;
 - Tailwind, SASS/SCSS, HTML;
-- Figma, GitLab;
+- Figma, GitLab/GitHub;
 - Webpack, Vite
 - Also React and Next.js
